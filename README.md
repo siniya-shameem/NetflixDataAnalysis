@@ -16,7 +16,7 @@ Streamlit 🎛️
 
 📂 NetflixDataAnalysis  
 │── 📄 netflix_dashboard.py    # Streamlit Dashboard  
-│── 📄 netflix_titles.csv      # data from kaggle
+│── 📄 netflix_titles.csv      # data from kaggle  
 │── 📄 requirements.txt        # Required Dependencies  
 │── 📄 README.md               # Project Documentation  
 
