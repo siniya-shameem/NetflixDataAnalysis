@@ -22,7 +22,7 @@ Streamlit 🎛️
 
 🔧 Setup & Installation  
 1️⃣ Clone the Repository:  
-git clone https://github.com/siniya-shameem/NetflixDataAnalysis.git 
+git clone https://github.com/siniya-shameem/NetflixDataAnalysis.git  
 cd NetflixDataAnalysis  
 2️⃣ Create a Virtual Environment (Optional but Recommended):  
 python -m venv venv  
